@@ -62,7 +62,7 @@ a:hover {
   border-color: black;
 }
 .columns{
-  min-height: 700px;
+  min-height: 650px;
   text-align: center;
 }
 .columns h1{
@@ -78,10 +78,10 @@ a:hover {
   padding-top: 10px;
 }
 .footer{
-  min-height: 230px;
+  min-height: 180px;
   background-color: #57705c;
   color: white;
-  font-size: 25px;
+  font-size: 18px;
   padding-top: 25px;
   text-align: center;
 }
@@ -89,40 +89,150 @@ a:hover {
 
 /*YOUR VISIT PAGE*/
 .green-bar{
-  min-height: 25px;
+  min-height: 160px;
   background-color: #57705c;
-  text-align: center;
+  font-family: 'Bohem-Press';
+  color: white;
+}
+.green-bar h2{
+  padding-top: 50px;
+  font-size: 35px;
 }
 .everything{
+  min-height: 100px;
 }
-.plans{
+.everything h1 {
+  text-align: center;
+  font-family: 'Bohem-Press';
+  font-size: 40px;
 }
-.get-here{
+.btn {
+  border-color: black;
+  background-color: #e77431;
+  color: white;
+  margin-bottom: 6px;
 }
-.parking{
+.btn:hover{
+  background-color: #e77431;
+  border-color: black;
 }
-.trails{
+.plans h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
 }
-.rules-warnings{
+.plans img {
+  margin-left: 115px;
+  margin-top: 15px;
 }
-.climbing{
+.get-here h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
 }
-.footer{
+.google-map{
+  text-align: center;
+}
+.parking h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
+}
+.trails h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
+  text-align: left;
+}
+.trails2 {
+  text-align: center;
+}
+.rules-warnings h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
+}
+.rules-warnings a{
+  color: white;
+  background-color: #583e16;
+  font-size: 20px;
+}
+.rules-warnings a:hover {
+    color: #e77431;
+    text-decoration: none;
+}
+
+.climbing h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
+  padding-top: 20px;
+}
+.climbing img{
+  margin-left: 275px;
+  margin-bottom: 30px;
+}
+.climbing a{
+  color: white;
+  background-color: #583e16;
+  font-size: 20px;
+}
+.climbing a:hover {
+    color: #e77431;
+    text-decoration: none;
+}
+.footer2 {
+  min-height: 180px;
+  background-color: #57705c;
+  color: white;
+  font-size: 18px;
+  padding-top: 25px;
+  text-align: center;
 }
 
 
 /*COMMUNITY PAGE*/
-.green-bar{
+.green-bar1{
+  min-height: 160px;
+  background-color: #57705c;
+  font-family: 'Bohem-Press';
+  color: white;
 }
-.area{
+.green-bar1 h2{
+  padding-top: 50px;
+  font-size: 35px;
+}
+.area h1{
+  font-family: 'Bohem-Press';
+  font-size: 40px;
+  text-align: center;
 }
 .lodging{
+  margin-left: 370px;
+}
+.lodging h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
 }
 .food{
+    margin-left: 370px;
 }
-.activites{
+.food h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
 }
-.donations{
+.activities{
+  margin-left: 370px;
 }
-.footer{
+.activites h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
+}
+.donations h1{
+  font-family: 'Bohem-Press';
+  font-size: 35px;
+}
+
+.footer3{
+  margin-top: 20px;
+  min-height: 180px;
+  background-color: #57705c;
+  color: white;
+  font-size: 18px;
+  padding-top: 25px;
+  text-align: center;
 }
